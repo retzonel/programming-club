@@ -1,4 +1,4 @@
-##learning about variables and basic data types
+## learning about variables and basic data types
 
 ```cpp
 #include <iostream>
