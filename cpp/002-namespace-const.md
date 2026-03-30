@@ -27,7 +27,9 @@ namespace second
 {
     int x = 2;
 }
+```
 
+```cpp
 int main()
 {
     using std::cout;
