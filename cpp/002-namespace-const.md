@@ -16,6 +16,7 @@ int main()
     return 0;
 }
 
+```cpp
 #include <iostream>
 
 namespace first
@@ -27,9 +28,7 @@ namespace second
 {
     int x = 2;
 }
-```
 
-```cpp
 int main()
 {
     using std::cout;
